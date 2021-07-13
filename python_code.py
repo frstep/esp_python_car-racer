@@ -11,7 +11,7 @@ speed = 0
 data = ""
 player_angle = 180
 datatup= (0, 0)
-BG_COL = (30, 110, 50)
+BG_COL = (0, 64, 20)
 
 
 def get_angle(tup):
@@ -78,4 +78,4 @@ while not done:
 	pygame.display.flip()
 	speed *= 0.7
 pygame.quit()
-#changed by fraser
+#changed by fraser again
