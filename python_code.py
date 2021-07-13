@@ -78,3 +78,4 @@ while not done:
 	pygame.display.flip()
 	speed *= 0.7
 pygame.quit()
+#changed by fraser
